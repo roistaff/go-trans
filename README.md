@@ -23,3 +23,5 @@ term-trans-ja "Hello,World!"
 ## Author
 Staff Roi
 Twitter @roi_staff
+
+This has not made by GPT

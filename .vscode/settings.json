@@ -1,0 +1,5 @@
+{
+    "go.gotoSymbol.includeGoroot": false,
+    "go.goroot": "",
+    "go.gopath": ""
+}

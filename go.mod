@@ -1,3 +1,3 @@
-module github.com/roistaff/term-trans-ja
+module github.com/roistaff/go-trans
 
 go 1.20
